@@ -1,0 +1,9 @@
+[submodule "bookstore-rails"]
+	path = bookstore-rails
+	url = https://github.com/phikes/bookstore-rails.git
+[submodule "bookstore-manage"]
+	path = bookstore-manage
+	url = https://github.com/phikes/bookstore-manage.git
+[submodule "bookstore-angular"]
+	path = bookstore-angular
+	url = https://github.com/phikes/bookstore-angular.git
